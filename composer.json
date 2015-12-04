@@ -10,10 +10,6 @@
       "email": "mantopastas@gmail.com"
     }
   ],
-  "source": {
-    "url": "https://m4nt4s2@bitbucket.org/m4nt4s2/core.git",
-    "type": "vcs"
-  },
   "require": {
     "php": ">=5.3.0"
   },
