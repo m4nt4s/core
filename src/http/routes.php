@@ -1,7 +1,7 @@
 <?php
 
 get('mantas', 'mantas\core\TestController@index');
-get('mantas', function ()
+get('test', function ()
 {
     dd('naujas');
 });
