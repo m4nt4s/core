@@ -13,12 +13,12 @@
   "require": {
     "php": ">=5.3.0"
   },
-  "version": "1.0.10",
   "autoload": {
     "psr-4": {
       "mantas\\core\\": "src/"
     }
   },
+  "version": "master",
   "minimum-stability": "dev",
   "prefer-stable" : "true"
 }
