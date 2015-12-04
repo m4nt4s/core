@@ -10,9 +10,9 @@
       "email": "mantopastas@gmail.com"
     }
   ],
-  "dist": {
+  "source": {
     "url": "git@bitbucket.org:m4nt4s2/core.git",
-    "type": "git"
+    "type": "vcs"
   },
   "require": {
     "php": ">=5.3.0"
