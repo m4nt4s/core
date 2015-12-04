@@ -11,7 +11,7 @@
     }
   ],
   "source": {
-    "url": "git@bitbucket.org:m4nt4s2/core.git",
+    "url": "https://m4nt4s2@bitbucket.org/m4nt4s2/core.git",
     "type": "vcs"
   },
   "require": {
@@ -22,5 +22,5 @@
       "mantas\\core\\": "src/"
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
