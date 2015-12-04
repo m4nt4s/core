@@ -11,14 +11,22 @@
     }
   ],
   "require": {
-    "php": ">=5.3.0"
+    "php": ">=5.3.0",
+    "m4nt4s2/private-repo": "1.2.*"
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/m4nt4s2/private-repo.git",
+      "branch": "master"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "mantas\\core\\": "src/"
     }
   },
-  "version": "0.1.15",
+  "version": "0.1.16",
   "minimum-stability": "dev",
   "prefer-stable" : "true"
 }
