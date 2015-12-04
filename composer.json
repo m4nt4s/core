@@ -14,11 +14,10 @@
     "php": ">=5.3.0",
     "m4nt4s2/private-repo": "1.2.*"
   },
-  "repositories": [
+  "repositories" : [
     {
-      "type": "vcs",
-      "url": "https://bitbucket.org/m4nt4s2/private-repo.git",
-      "branch": "master"
+      "type" : "composer",
+      "url" : "http://ubuntumantas/web/"
     }
   ],
   "autoload": {
@@ -26,7 +25,7 @@
       "mantas\\core\\": "src/"
     }
   },
-  "version": "0.1.16",
+  "version": "0.1.17",
   "minimum-stability": "dev",
   "prefer-stable" : "true"
 }
