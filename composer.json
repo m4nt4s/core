@@ -18,7 +18,7 @@
       "mantas\\core\\": "src/"
     }
   },
-  "version": "0.1.14.1",
+  "version": "0.1.15",
   "minimum-stability": "dev",
   "prefer-stable" : "true"
 }
