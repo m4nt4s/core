@@ -10,7 +10,7 @@
       "email": "mantopastas@gmail.com"
     }
   ],
-  "source": {
+  "dist": {
     "url": "git@bitbucket.org:m4nt4s2/core.git",
     "type": "git"
   },
